@@ -184,5 +184,6 @@ public class MinesweeperGame {
         open(row + 1, col + 1);
     }
 
+    // 2025년도 화이팅 새해 복 많이 받아서 성공하자 ""!!!
 
 }
